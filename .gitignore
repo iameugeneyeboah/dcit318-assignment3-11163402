@@ -1,0 +1,31 @@
+# Build outputs
+bin/
+obj/
+
+# VS Code settings
+.vscode/
+
+# Visual Studio settings
+.vs/
+*.user
+*.suo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Rider/JetBrains
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
+*.swp
+
